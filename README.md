@@ -27,7 +27,7 @@
 
 <h2>Experiências</h2>
 
-<h3>INDRA COMPANY <em>(2017 - 2019)</em></h3>
+<h4>INDRA COMPANY <em>(2017 - 2019)</em></h4>
 <blockquote>
   <p>Analista UX / Front-end dev</p>
 </blockquote>
@@ -36,7 +36,7 @@
 
 <hr />
 
-<h3>MONTREAL INFORMÁTICA <em>(2014- 2017)</em></h3>
+<h4>MONTREAL INFORMÁTICA <em>(2014- 2017)</em></h4>
 <blockquote>
   <p>Analista de interface / Front-end dev</p>
 </blockquote>
@@ -46,7 +46,7 @@
 <hr />
 
 
-<h3>VELAME WEB <em>(2010- 2014)</em></h3>
+<h4>VELAME WEB <em>(2010- 2014)</em></h4>
 <blockquote>
   <p>Sócio proprietário</p>
 </blockquote>
@@ -56,7 +56,7 @@
 <hr />
 
 
-<h3>VELAME CURSOS <em>(2009- 2018)</em></h3>
+<h4>VELAME CURSOS <em>(2009- 2018)</em></h4>
 <blockquote>
   <p>Sócio proprietário / Professor</p>
 </blockquote>
@@ -66,7 +66,7 @@
 <hr />
 
 
-<h3>GRUPO A2 <em>(2008)</em></h3>
+<h4>GRUPO A2 <em>(2008)</em></h4>
 <blockquote>
   <p>Gerente de negócios / Webdesigner</p>
 </blockquote>
@@ -76,7 +76,7 @@
 <hr />
 
 
-<h3>KUATRO FACES INTERNET E MARKETING  <em>(2005)</em></h3>
+<h4>KUATRO FACES INTERNET E MARKETING  <em>(2005)</em></h4>
 <blockquote>
   <p>Webdesigner</p>
 </blockquote>
@@ -86,7 +86,7 @@
 <hr />
 
 
-<h3>ACHEI TECNOLOGIA DA INFORMAÇÃO <em>(2004)</em></h3>
+<h4>ACHEI TECNOLOGIA DA INFORMAÇÃO <em>(2004)</em></h4>
 <blockquote>
   <p>Webdesigner</p>
 </blockquote>
