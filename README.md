@@ -1,6 +1,6 @@
 
 
-<img src="http://velameweb.com.br/git/avatar.jpg" align="left" />
+<img src="http://velameweb.com.br/git/avatar-2020.jpg" align="left" />
 
 
 <h2>Tarciso Velame <em>(currículo)</em></h2>
