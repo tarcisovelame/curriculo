@@ -32,6 +32,58 @@
   <p>Analista UX / Front-end dev</p>
 </blockquote>
 
+<p>Especificações de layout e arquitetura focando na experiência do usuário, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap, Primefaces e Angular; Apresentação de projetos para o cliente; Desenvolvimento de portais em WordPress</p>
+
+
+<h3>MONTREAL INFORMÁTICA <em>(2014- 2017)</em></h3>
+<blockquote>
+  <p>Analista de interface / Front-end dev</p>
+</blockquote>
+
+<p>Desenvolvimento de Layout de sistemas, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap e Primefaces, desenvolvimento de portais em WordPress</p>
+
+
+<h3>VELAME WEB <em>(2010- 2014)</em></h3>
+<blockquote>
+  <p>Sócio proprietário</p>
+</blockquote>
+
+<p>Gerenciava sete profissionais em diversas áreas, desde o desenvolvimento dos projetos, gerenciamento de serviços Google (Adwords e SEO) e Gestão de Mídias Sociais</p>
+
+
+<h3>VELAME CURSOS <em>(2009- 2018)</em></h3>
+<blockquote>
+  <p>Sócio proprietário / Professor</p>
+</blockquote>
+
+<p>Mais de 4000 horas de aulas ministradas. Professor de Layout (Photoshop), Front-End (HTML/CSS), SEO, WordPress</p>
+
+
+<h3>GRUPO A2 <em>(2008)</em></h3>
+<blockquote>
+  <p>Gerente de negócios / Webdesigner</p>
+</blockquote>
+
+<p>Negociação com clientes, coordenação de equipe de desenvolvimento, e criação de websites.</p>
+
+
+<h3>KUATRO FACES INTERNET E MARKETING  <em>(2005)</em></h3>
+<blockquote>
+  <p>Webdesigner</p>
+</blockquote>
+
+<p>Desenvolvimento e manutenção de websites</p>
+
+
+<h3>ACHEI TECNOLOGIA DA INFORMAÇÃO <em>(2004)</em></h3>
+<blockquote>
+  <p>Webdesigner</p>
+</blockquote>
+
+<p>Desenvolvimento de websites, programação visual, estratégia de marketing na web e animações em flash</p>
+
+
+
 
 <h3><img src="http://velameweb.com.br/git/config/images/html-icon.png" alt="HTML ícone" height="18px" /> HTML <em>(<a href="https://github.com/tarcisovelame/curriculo/tree/master/html" target="_blank">meu know-how</a>)</em></h3>
 <ul>
