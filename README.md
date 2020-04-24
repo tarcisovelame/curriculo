@@ -43,6 +43,8 @@
 
 <p>Desenvolvimento de Layout de sistemas, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap e Primefaces, desenvolvimento de portais em WordPress</p>
 
+<hr />
+
 
 <h3>VELAME WEB <em>(2010- 2014)</em></h3>
 <blockquote>
@@ -50,6 +52,8 @@
 </blockquote>
 
 <p>Gerenciava sete profissionais em diversas áreas, desde o desenvolvimento dos projetos, gerenciamento de serviços Google (Adwords e SEO) e Gestão de Mídias Sociais</p>
+
+<hr />
 
 
 <h3>VELAME CURSOS <em>(2009- 2018)</em></h3>
@@ -59,6 +63,8 @@
 
 <p>Mais de 4000 horas de aulas ministradas. Professor de Layout (Photoshop), Front-End (HTML/CSS), SEO, WordPress</p>
 
+<hr />
+
 
 <h3>GRUPO A2 <em>(2008)</em></h3>
 <blockquote>
@@ -66,6 +72,8 @@
 </blockquote>
 
 <p>Negociação com clientes, coordenação de equipe de desenvolvimento, e criação de websites.</p>
+
+<hr />
 
 
 <h3>KUATRO FACES INTERNET E MARKETING  <em>(2005)</em></h3>
@@ -75,6 +83,8 @@
 
 <p>Desenvolvimento e manutenção de websites</p>
 
+<hr />
+
 
 <h3>ACHEI TECNOLOGIA DA INFORMAÇÃO <em>(2004)</em></h3>
 <blockquote>
@@ -83,6 +93,16 @@
 
 <p>Desenvolvimento de websites, programação visual, estratégia de marketing na web e animações em flash</p>
 
+
+<h2>Know-how em Sites e Sistemas</h2>
+
+<ul>
+  <li>UX/UI, Usabilidade, Acessibilidade, Design de sistemas</li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/html" target="_blank">HTML5</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/css" target="_blank">CSS3</a>, SASS, Bootstrap, Javascript, jQuery</li>
+  <li>Responsividade, Crossbrowser</li>
+  <li>Angular, React <em>(curso em andamento)</em>, Typescript, ECMAScript, Primefaces, NPM, CLI</li>
+  <li>WordPress, PHP, MySQL</li>
+</ul>
 
 
 
