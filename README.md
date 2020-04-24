@@ -99,20 +99,20 @@
 <h2>Know-how em Sites e Sistemas</h2>
 
 <ul>
-  <li>UX/UI, Usabilidade, Acessibilidade, Design de sistemas</li>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/html" target="_blank">HTML5</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/css" target="_blank">CSS3</a>, SASS, Bootstrap, Javascript, jQuery</li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/ux-ui" target="_blank">UX/UI</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/usabilidade" target="_blank">Usabilidade</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/acessibilidade" target="_blank">Acessibilidade</a>, Design de sistemas</li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/html" target="_blank">HTML5</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/css" target="_blank">CSS3</a>, SASS, <a href="https://github.com/tarcisovelame/curriculo/tree/master/bootstrap" target="_blank">Bootstrap</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/javascript" target="_blank">Javascript</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/jquery" target="_blank">jQuery</a></li>
   <li>Responsividade, Crossbrowser</li>
   <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/angular" target="_blank">Angular</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/reactjs" target="_blank">React JS <em>(curso em andamento)</em>, Typescript, ECMAScript, Primefaces, NPM, CLI</li>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/wordpress" target="_blank">WordPress</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/php" target="_blank">PHP</a>, MySQL</li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/wordpress" target="_blank">WordPress</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/php" target="_blank">PHP</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/mysql" target="_blank">MySQL</a></li>
 </ul>
 
 
 <h2>Know-how em Marketing Digital</h2>
 
 <ul>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/seo" target="_blank">SEO</a> / Adwords</li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/seo" target="_blank">SEO</a> / <a href="https://github.com/tarcisovelame/curriculo/tree/master/adwords" target="_blank">Adwords</a></li>
   <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/email-marketing" target="_blank">Email Marketing</a></li>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/campanhas" target="_blank">Campanhas em Redes Sociais</a></li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/gestao-campanhas" target="_blank">Campanhas em Redes Sociais</a></li>
   <li>Análise estatística <em>(Google Analytics)</em></li>
 </ul>
 
