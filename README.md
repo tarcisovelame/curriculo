@@ -28,7 +28,9 @@
 <h2>Experiências</h2>
 
 <h3>INDRA COMPANY <em>(2017 - 2019)</em></h3>
-> Analista UX / Front-end dev
+<blockquote>
+  <p>Analista UX / Front-end dev</p>
+</blockquote>
 
 
 <h3><img src="http://velameweb.com.br/git/config/images/html-icon.png" alt="HTML ícone" height="18px" /> HTML <em>(<a href="https://github.com/tarcisovelame/curriculo/tree/master/html" target="_blank">meu know-how</a>)</em></h3>
