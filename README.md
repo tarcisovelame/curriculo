@@ -34,6 +34,7 @@
 
 <p>Especificações de layout e arquitetura focando na experiência do usuário, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap, Primefaces e Angular; Apresentação de projetos para o cliente; Desenvolvimento de portais em WordPress</p>
 
+<hr />
 
 <h3>MONTREAL INFORMÁTICA <em>(2014- 2017)</em></h3>
 <blockquote>
