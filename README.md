@@ -3,9 +3,11 @@
 <img src="http://velameweb.com.br/git/avatar-2020.jpg" align="left" />
 
 
-<h2>Tarciso Velame <em>(currículo)</em></h2>
+<h2>Tarciso Velame <em>(Front-End Sênior / Analista UX)</em></h2>
 
-> Nesse README do Github apresento um resumo do meu currículo e das minhas habilidades
+<blockquote>
+  <p>Nesse README do Github apresento um resumo do meu currículo e das minhas habilidades</p>
+</blockquote>
 
 <p>
   <a href="http://velameweb.com.br/git/Tarciso-Velame-CV-2020.pdf" target="_blank">
@@ -14,7 +16,18 @@
 </p>
 
 
-<h2>Tecnologias utilizadas</h2>
+<h2>Dados pessoais</h2>
+
+<ul>
+    <li><strong>telefone</strong> 55.35 99248-6131</li>
+    <li><strong>email</strong> tarciso@velameweb.com.br</li>
+    <li><strong>linkedin</strong> <a href="https://www.linkedin.com/in/tarcisovelame" target="_blank"> linkedin.com/in/tarcisovelame</a></li>
+</ul>
+
+
+<h2>Experiências</h2>
+
+
 
 <h3><img src="http://velameweb.com.br/git/config/images/html-icon.png" alt="HTML ícone" height="18px" /> HTML <em>(<a href="https://github.com/tarcisovelame/curriculo/tree/master/html" target="_blank">meu know-how</a>)</em></h3>
 <ul>
@@ -39,10 +52,3 @@
 
 <h2>Prints do projeto - 2012</h2>
 
-<img src="http://velameweb.com.br/projetos-sistemas/shopping-paralela-2012/screenshot.jpg" alt="Screenshot do projeto">
-
-<p align="center">
-  <a href="http://velameweb.com.br/projetos-sistemas/shopping-paralela-2012/" target="_blank">
-    <strong>» Ver protótipo interativo do projeto</strong>
-  </a>
-</p>
