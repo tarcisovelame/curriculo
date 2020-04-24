@@ -5,6 +5,8 @@
 
 <h2>Tarciso Velame <em>(currículo)</em></h2>
 
+> Nesse README do Github apresento um resumo do meu currículo e das minhas habilidades
+
 <p>
   <a href="http://velameweb.com.br/git/Tarciso-Velame-CV-2020.pdf" target="_blank">
     <strong>» Acesse meu currículo completo em sua versão PDF</strong>
