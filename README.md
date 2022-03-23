@@ -42,7 +42,7 @@
   <p>Analista UX / Front-end dev</p>
 </blockquote>
 
-<p>Especificações de layout e arquitetura focando na experiência do usuário, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap, Primefaces e Angular; Apresentação de projetos para o cliente; Desenvolvimento de portais em WordPress</p>
+<p>Especificações de layout e arquitetura focando na experiência do usuário, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap, Primefaces (JSF) e Angular; Apresentação de projetos para o cliente; Desenvolvimento de portais em WordPress</p>
 
 <hr />
 
@@ -51,7 +51,7 @@
   <p>Analista de interface / Front-end dev</p>
 </blockquote>
 
-<p>Desenvolvimento de Layout de sistemas, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap e Primefaces, desenvolvimento de portais em WordPress</p>
+<p>Desenvolvimento de Layout de sistemas, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap e Primefaces (JSF), desenvolvimento de portais em WordPress</p>
 
 <hr />
 
