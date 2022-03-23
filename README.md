@@ -25,7 +25,17 @@
 </ul>
 
 
+
 <h2>Experiências</h2>
+
+<h4>ALTA RAIL TECHNOLOGY <em>(2020 - atual)</em></h4>
+<blockquote>
+  <p>Desenvolvedor Front-End Sênior</p>
+</blockquote>
+
+<p>Foco em desenvolvimento Angular consumindo API .NET, aplicando conceitos de UX/UI</p>
+
+<hr />
 
 <h4>INDRA COMPANY <em>(2017 - 2019)</em></h4>
 <blockquote>
