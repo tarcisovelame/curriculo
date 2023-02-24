@@ -10,7 +10,7 @@
 </blockquote>
 
 <p>
-  <a href="http://velameweb.com.br/git/Tarciso-Velame-CV-2020.pdf" target="_blank">
+  <a href="http://velameweb.com.br/git/Tarciso-Velame-CV.pdf" target="_blank">
     <strong>» Acesse meu currículo completo em sua versão PDF</strong>
   </a>
 </p>
@@ -19,7 +19,7 @@
 <h2>Dados pessoais</h2>
 
 <ul>
-    <li><strong>telefone</strong> 55.35 99248-6131</li>
+    <li><strong>telefone</strong> 55.35 99248-6131 (<a href="https://wa.me/5535992486131" target="_blank">Whatsapp</a>)</li>
     <li><strong>email</strong> tarciso@velameweb.com.br</li>
     <li><strong>linkedin</strong> <a href="https://www.linkedin.com/in/tarcisovelame" target="_blank"> linkedin.com/in/tarcisovelame</a></li>
 </ul>
@@ -28,9 +28,18 @@
 
 <h2>Experiências</h2>
 
-<h4>ALTA RAIL TECHNOLOGY <em>(2020 - atual)</em></h4>
+<h4>BEN FATTO <em>(2022 - atual)</em></h4>
 <blockquote>
-  <p>Desenvolvedor Front-End Sênior</p>
+  <p>Desenvolvedor Front-End Angular (Sênior)</p>
+</blockquote>
+
+<p>Prestando serviço para a Thomson Reuters no projeto de modernização dos seus produtos com foco em desenvolvimento Angular</p>
+
+<hr />
+
+<h4>ALTA RAIL TECHNOLOGY <em>(2020 - 2022)</em></h4>
+<blockquote>
+  <p>Desenvolvedor Front-End Angular (Sênior)</p>
 </blockquote>
 
 <p>Foco em desenvolvimento Angular consumindo API .NET, aplicando conceitos de UX/UI</p>
@@ -39,7 +48,7 @@
 
 <h4>INDRA COMPANY <em>(2017 - 2019)</em></h4>
 <blockquote>
-  <p>Analista UX / Front-end dev</p>
+  <p>Analista UX / Front-end dev (Sênior)</p>
 </blockquote>
 
 <p>Especificações de layout e arquitetura focando na experiência do usuário, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap, Primefaces (JSF) e Angular; Apresentação de projetos para o cliente; Desenvolvimento de portais em WordPress</p>
@@ -48,7 +57,7 @@
 
 <h4>MONTREAL INFORMÁTICA <em>(2014- 2017)</em></h4>
 <blockquote>
-  <p>Analista de interface / Front-end dev</p>
+  <p>Analista de interface / Front-end dev (Sênior)</p>
 </blockquote>
 
 <p>Desenvolvimento de Layout de sistemas, desenvolvimento do front-end (HTML/CSS/JS) utilizando Bootstrap e Primefaces (JSF), desenvolvimento de portais em WordPress</p>
@@ -106,30 +115,30 @@
 <hr />
 
 
-<h2>Know-how em Sites e Sistemas</h2>
+<h2>Skills em Sites e Sistemas</h2>
 
 <ul>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/ux-ui" target="_blank">UX/UI</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/usabilidade" target="_blank">Usabilidade</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/acessibilidade" target="_blank">Acessibilidade</a>, Design de sistemas</li>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/html" target="_blank">HTML5</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/css" target="_blank">CSS3</a>, SASS, <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/bootstrap" target="_blank">Bootstrap</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/javascript" target="_blank">Javascript</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/jquery" target="_blank">jQuery</a></li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/ux-ui" target="_blank">UX/UI</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/usabilidade" target="_blank">Usabilidade</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/acessibilidade" target="_blank">Acessibilidade</a>, Design de sistemas</li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/html" target="_blank">HTML5</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/css" target="_blank">CSS3</a>, SASS, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/bootstrap" target="_blank">Bootstrap</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/javascript" target="_blank">Javascript</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/jquery" target="_blank">jQuery</a></li>
   <li>Responsividade, Crossbrowser</li>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/angular" target="_blank">Angular</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/reactjs" target="_blank">React JS <em>(curso em andamento)</em>, Typescript, ECMAScript, Primefaces, NPM, CLI</li>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/wordpress" target="_blank">WordPress</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/php" target="_blank">PHP</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/mysql" target="_blank">MySQL</a></li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/angular" target="_blank">Angular</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/reactjs" target="_blank">React</a>, Typescript, ECMAScript, Primefaces, NPM</li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/wordpress" target="_blank">WordPress</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/php" target="_blank">PHP</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/mysql" target="_blank">MySQL</a></li>
 </ul>
 
 
-<h2>Know-how em Marketing Digital</h2>
+<h2>Skills em Marketing Digital</h2>
 
 <ul>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/seo" target="_blank">SEO</a> / <a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/adwords" target="_blank">Adwords</a></li>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/email-marketing" target="_blank">Email Marketing</a></li>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/know-how/gestao-campanhas" target="_blank">Campanhas em Redes Sociais</a></li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/seo" target="_blank">SEO</a> / <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/adwords" target="_blank">Adwords</a></li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/email-marketing" target="_blank">Email Marketing</a></li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/gestao-campanhas" target="_blank">Campanhas em Redes Sociais</a></li>
   <li>Análise estatística <em>(Google Analytics)</em></li>
 </ul>
 
 
 <h2>Conhecimentos e Metodologias</h2>
 
-<p>Scrum, Agil, Git, SVN, apresentação de projetos, Comercial, Gestão de equipe</p>
+<p>Scrum, Agil, Git, SVN, Apresentação de projetos, Comercial, Gestão de equipe</p>
 
 
 <h2>Formação</h2>
