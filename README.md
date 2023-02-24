@@ -115,14 +115,14 @@
 <hr />
 
 
-<h2>Skills em Sites e Sistemas</h2>
+<h2>Skills em Sistemas/Sites</h2>
 
 <ul>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/ux-ui" target="_blank">UX/UI</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/usabilidade" target="_blank">Usabilidade</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/acessibilidade" target="_blank">Acessibilidade</a>, Design de sistemas</li>
-  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/html" target="_blank">HTML5</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/css" target="_blank">CSS3</a>, SASS, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/bootstrap" target="_blank">Bootstrap</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/javascript" target="_blank">Javascript</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/jquery" target="_blank">jQuery</a></li>
-  <li>Responsividade, Crossbrowser</li>
   <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/angular" target="_blank">Angular</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/reactjs" target="_blank">React</a>, Typescript, ECMAScript, Primefaces, NPM</li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/html" target="_blank">HTML5</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/css" target="_blank">CSS3</a>, SASS, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/bootstrap" target="_blank">Bootstrap</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/javascript" target="_blank">Javascript</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/jquery" target="_blank">jQuery</a></li>
+  <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/ux-ui" target="_blank">UX/UI</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/usabilidade" target="_blank">Usabilidade</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/acessibilidade" target="_blank">Acessibilidade</a>, Design de sistemas</li>
   <li><a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/wordpress" target="_blank">WordPress</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/php" target="_blank">PHP</a>, <a href="https://github.com/tarcisovelame/curriculo/tree/master/skills/mysql" target="_blank">MySQL</a></li>
+  <li>Responsividade, Crossbrowser</li>
 </ul>
 
 
